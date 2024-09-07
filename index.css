@@ -476,7 +476,7 @@ footer div{
 @media (max-width:480px){
   header{
     
-    width: 80%;
+    width: auto-fit;
   }
 
   nav ul .ten{
